@@ -1,2 +1,3 @@
 # wage-weave
-Your salary, your portfolio, your future
+Your Salary 💰, Your Portfolio 📊, Your Future 🌟.
+
