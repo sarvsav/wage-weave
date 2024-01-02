@@ -1,0 +1,1 @@
+go install github.com/divan/expvarmon@latestgo install github.com/divan/expvarmon@latest
