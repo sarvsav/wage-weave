@@ -68,3 +68,6 @@ test.out
 _build/
 .idea/
 .vscode/
+
+# Ignore pnpm lock file
+app/ui/pnpm-lock.yaml
