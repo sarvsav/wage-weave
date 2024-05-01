@@ -1,0 +1,17 @@
+# .goreleaser.yaml
+build:
+  main: ./cmd/your-app
+
+checksum:
+  name_template: 'checksums.txt'
+
+release:
+  github:
+    owner: your-github-username
+    name: your-repo-name
+  gitea:
+    owner: your-gitea-username
+    name: your-repo-name
+  gitlab:
+    owner: your-gitlab-username
+    name: your-repo-name
